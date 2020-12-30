@@ -1,16 +1,21 @@
-##### Python
+##### Python 1
 * Data Types
-    * Properties
-    * common operations
-* Operators
+* Operations
 * Decision Making
-    * if, else, elif
-    * switch case using dictionary
 * Loops
-    * for, while
-    * else block after loop statements
-    * break, continue, pass
 * Functions
 * Class and OOPs
-
------ 
+----
+##### Python 2
+* Formating
+* Comprehension
+* Namespace
+* Lambda functions
+* Exception Handling
+* RegEx
+* Modules and Packages
+* Iterators, Generators, Decorators
+* Collections Module
+* File Handling
+* Built-in functions
+--- 
