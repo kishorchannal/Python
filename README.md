@@ -19,3 +19,8 @@
 * File Handling
 * Built-in functions
 --- 
+##### Data Strucutures 1
+* Strings
+* Arrays
+* Linked Lists
+* Binary Trees
