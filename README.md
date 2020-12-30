@@ -23,6 +23,7 @@
 * Strings
 * Arrays
 * Linked Lists
+* Stacks and Queues
 * Binary Trees
 * Recursion and Memoization
 ---
