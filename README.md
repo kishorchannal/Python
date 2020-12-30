@@ -1,2 +1,1 @@
-1. Python Basics
-
+**Table of Contents**
