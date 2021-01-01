@@ -19,11 +19,16 @@
 * File Handling
 * Built-in functions
 --- 
+##### Difference
+--- 
 ##### Data Strucutures 1
+
 * Strings
 * Arrays
 * Linked Lists
 * Stacks and Queues
 * Binary Trees
 * Recursion and Memoization
----
+
+--- 
+##### Others
