@@ -1,0 +1,3 @@
+January   : Basic programs, Data structures, Algorithms, Patterns 
+
+[ongoing]Jan Week1 : Finish all Basic programs
