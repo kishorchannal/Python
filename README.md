@@ -10,6 +10,7 @@
 * Formating
 * Comprehension
 * Namespace
+* [Iterables](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Iterables.html)
 * Lambda functions
 * Exception Handling
 * RegEx
