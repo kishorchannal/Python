@@ -16,7 +16,7 @@
 * RegEx
 * Modules and Packages
 * Iterators, Generators, Decorators
-* Collections Module
+* [Collections Module](https://github.com/kishorchannal/Python/blob/main/All%20Files/collections_module.ipynb)
 * File Handling
 * Built-in functions
 --- 
