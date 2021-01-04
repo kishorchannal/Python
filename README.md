@@ -8,16 +8,16 @@
 ----
 ##### Python 2
 * Formating
-* Comprehension
-* Namespace
+* [Comprehension](https://github.com/kishorchannal/Python/blob/main/All%20Files/comprehension.ipynb)
+* [Namespace](https://github.com/kishorchannal/Python/blob/main/All%20Files/namespace.ipynb)
 * [Iterables](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Iterables.html)
-* Lambda functions
-* Exception Handling
+* [Lambda functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/lambda_functions.ipynb)
+* [Exception Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/exception_handling.ipynb)
 * RegEx
 * Modules and Packages
-* Iterators, Generators, Decorators
+* Iterators, [Generators](https://github.com/kishorchannal/Python/blob/main/All%20Files/generators.ipynb), [Decorators](https://github.com/kishorchannal/Python/blob/main/All%20Files/decorators.ipynb)
 * [Collections Module](https://github.com/kishorchannal/Python/blob/main/All%20Files/collections_module.ipynb)
-* File Handling
+* [File Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/file_handling.ipynb)
 * Built-in functions
 --- 
 ##### Difference
