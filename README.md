@@ -1,10 +1,10 @@
 ##### [Python 1](https://github.com/kishorchannal/Python/blob/main/All%20Files/Python%201.ipynb)
 * Data Types
-  * Strings
-  * Lists
-  * Tuples
-  * Sets
-  * Dictionary
+  * [Strings](https://github.com/kishorchannal/Python/blob/main/All%20Files/strings.ipynb)
+  * [Lists](https://github.com/kishorchannal/Python/blob/main/All%20Files/lists.ipynb)
+  * [Tuples](https://github.com/kishorchannal/Python/blob/main/All%20Files/tuples.ipynb)
+  * [Sets](https://github.com/kishorchannal/Python/blob/main/All%20Files/sets.ipynb)
+  * [Dictionary](https://github.com/kishorchannal/Python/blob/main/All%20Files/dictionary.ipynb)
 * Operators
 * Decision Making
 * Loops
