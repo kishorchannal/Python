@@ -1,6 +1,11 @@
 ##### [Python 1](https://github.com/kishorchannal/Python/blob/main/All%20Files/Python%201.ipynb)
 * Data Types
-* Operations
+  * Strings
+  * Lists
+  * Tuples
+  * Sets
+  * Dictionary
+* Operators
 * Decision Making
 * Loops
 * Functions
@@ -21,15 +26,6 @@
 * [Built-in functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/built_in_functions.ipynb)
 --- 
 ##### Difference
---- 
-##### Data Strucutures 1
-
-* Strings
-* Arrays
-* Linked Lists
-* Stacks and Queues
-* Binary Trees
-* Recursion and Memoization
 
 --- 
 ##### Others
