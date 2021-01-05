@@ -9,7 +9,7 @@
 * Decision Making
 * Loops
 * Functions
-* Class and OOPs
+* [Class and OOPs](https://github.com/kishorchannal/Python/blob/main/All%20Files/class_oops.ipynb)
 ----
 ##### Python 2
 * Formating
