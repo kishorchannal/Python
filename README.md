@@ -5,6 +5,7 @@
   * [Tuples](https://github.com/kishorchannal/Python/blob/main/All%20Files/tuples.ipynb)
   * [Sets](https://github.com/kishorchannal/Python/blob/main/All%20Files/sets.ipynb)
   * [Dictionary](https://github.com/kishorchannal/Python/blob/main/All%20Files/dictionary.ipynb)
+  * [Time complexity](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
 * Operators
 * Decision Making
 * Loops
