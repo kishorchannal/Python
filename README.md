@@ -23,7 +23,7 @@
 9. Iterators, [Generators](https://github.com/kishorchannal/Python/blob/main/All%20Files/generators.ipynb), [Decorators](https://github.com/kishorchannal/Python/blob/main/All%20Files/decorators.ipynb)
 10. [Collections Module](https://github.com/kishorchannal/Python/blob/main/All%20Files/collections_module.ipynb)
 11. [File Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/file_handling.ipynb)
-12. [Built-in functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/built_in_functions.ipynb)
+12. [Built-in functions](https://docs.python.org/3/library/functions.html)
 --- 
 ##### Difference
 
