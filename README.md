@@ -1,4 +1,4 @@
-##### [Python 1](https://github.com/kishorchannal/Python/blob/main/All%20Files/Python%201.ipynb)
+##### [Python](https://github.com/kishorchannal/Python/blob/main/All%20Files/Python%201.ipynb)
 1. Data Types
   * [Lists](https://github.com/kishorchannal/Python/blob/main/All%20Files/lists.ipynb)
   * [Tuples](https://github.com/kishorchannal/Python/blob/main/All%20Files/tuples.ipynb)
@@ -11,7 +11,7 @@
 5. Functions
 6. [Class and OOPs](https://github.com/kishorchannal/Python/blob/main/All%20Files/class_oops.ipynb)
 ----
-##### Python 2
+##### Other Concepts
 * Formating
 * [Comprehension](https://github.com/kishorchannal/Python/blob/main/All%20Files/comprehension.ipynb)
 * [Namespace](https://github.com/kishorchannal/Python/blob/main/All%20Files/namespace.ipynb)
