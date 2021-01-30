@@ -1,16 +1,15 @@
 ##### [Python 1](https://github.com/kishorchannal/Python/blob/main/All%20Files/Python%201.ipynb)
-* Data Types
-  * [Strings](https://github.com/kishorchannal/Python/blob/main/All%20Files/strings.ipynb)
+1. Data Types
   * [Lists](https://github.com/kishorchannal/Python/blob/main/All%20Files/lists.ipynb)
   * [Tuples](https://github.com/kishorchannal/Python/blob/main/All%20Files/tuples.ipynb)
   * [Sets](https://github.com/kishorchannal/Python/blob/main/All%20Files/sets.ipynb)
   * [Dictionary](https://github.com/kishorchannal/Python/blob/main/All%20Files/dictionary.ipynb)
-  * [Time complexity](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
-* Operators
-* Decision Making
-* Loops
-* Functions
-* [Class and OOPs](https://github.com/kishorchannal/Python/blob/main/All%20Files/class_oops.ipynb)
+  * [Strings](https://github.com/kishorchannal/Python/blob/main/All%20Files/strings.ipynb)
+2. Operators
+3. Decision Making
+4. Loops
+5. Functions
+6. [Class and OOPs](https://github.com/kishorchannal/Python/blob/main/All%20Files/class_oops.ipynb)
 ----
 ##### Python 2
 * Formating
