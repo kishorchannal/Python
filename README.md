@@ -12,18 +12,18 @@
 6. [Class and OOPs](https://github.com/kishorchannal/Python/blob/main/All%20Files/class_oops.ipynb)
 ----
 ##### Other Concepts
-* Formating
-* [Comprehension](https://github.com/kishorchannal/Python/blob/main/All%20Files/comprehension.ipynb)
-* [Namespace](https://github.com/kishorchannal/Python/blob/main/All%20Files/namespace.ipynb)
-* [Iterables](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Iterables.html)
-* [Lambda functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/lambda_functions.ipynb)
-* [Exception Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/exception_handling.ipynb)
-* [RegEx](https://github.com/kishorchannal/Python/blob/main/All%20Files/regular_expression.ipynb)
-* Modules and Packages
-* Iterators, [Generators](https://github.com/kishorchannal/Python/blob/main/All%20Files/generators.ipynb), [Decorators](https://github.com/kishorchannal/Python/blob/main/All%20Files/decorators.ipynb)
-* [Collections Module](https://github.com/kishorchannal/Python/blob/main/All%20Files/collections_module.ipynb)
-* [File Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/file_handling.ipynb)
-* [Built-in functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/built_in_functions.ipynb)
+1. Formating
+2. [Comprehension](https://github.com/kishorchannal/Python/blob/main/All%20Files/comprehension.ipynb)
+3. [Namespace](https://github.com/kishorchannal/Python/blob/main/All%20Files/namespace.ipynb)
+4. [Iterables](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Iterables.html)
+5. [Lambda functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/lambda_functions.ipynb)
+6. [Exception Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/exception_handling.ipynb)
+7. [RegEx](https://github.com/kishorchannal/Python/blob/main/All%20Files/regular_expression.ipynb)
+8. Modules and Packages
+9. Iterators, [Generators](https://github.com/kishorchannal/Python/blob/main/All%20Files/generators.ipynb), [Decorators](https://github.com/kishorchannal/Python/blob/main/All%20Files/decorators.ipynb)
+10. [Collections Module](https://github.com/kishorchannal/Python/blob/main/All%20Files/collections_module.ipynb)
+11. [File Handling](https://github.com/kishorchannal/Python/blob/main/All%20Files/file_handling.ipynb)
+12. [Built-in functions](https://github.com/kishorchannal/Python/blob/main/All%20Files/built_in_functions.ipynb)
 --- 
 ##### Difference
 
