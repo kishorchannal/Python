@@ -29,3 +29,20 @@
 
 --- 
 ##### Others
+
+
+##### Hello Everyone
+
+| Topics  | Notes        | Code           |
+| ------- | ------------ | -------------- |
+| Array   | Array_Notes  | Easy Questions |
+| Strings | String_Notes | Easy Questions |
+| Stack   | Stack_Notes  | Easy Questions |
+
+````python
+print("Hello World")
+for i range(6):
+    print(i)
+````
+
+
