@@ -5,7 +5,7 @@
   * [Sets](https://github.com/kishorchannal/Python/blob/main/All%20Files/sets.ipynb)
   * [Dictionary](https://github.com/kishorchannal/Python/blob/main/All%20Files/dictionary.ipynb)
   * [Strings](https://github.com/kishorchannal/Python/blob/main/All%20Files/strings.ipynb)
-2. Operators
+2. [Operators](https://github.com/kishorchannal/Python/blob/main/All%20Files/thisPageReadme.md)
 3. Decision Making
 4. Loops
 5. Functions
